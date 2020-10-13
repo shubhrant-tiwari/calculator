@@ -1,2 +1,2 @@
 # calculator
-Calculator 
+JAVA Calculator Project 
